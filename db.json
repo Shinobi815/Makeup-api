@@ -5,68 +5,78 @@
       "naam": "Lucidalabbra no.17",
       "merk": "KIKO Milano",
       "categorie": "Lipgloss",
-      "prijs": 13.99
+      "prijs": 13.99,
+      "image": "https://www.kikocosmetics.com/_next/image?url=https%3A%2F%2Fassets.joqhl8w6.on-eva.io%2Fblob%2Fd2f85080-e69f-c800-cf86-1ea03df1ae41&q=75&w=640&av=v1"
     },
     {
       "id": 2,
       "naam": "Loose Setting Powder",
       "merk": "Huda Beauty",
       "categorie": "Powder",
-      "prijs": 40.00
+      "prijs": 40.00,
+      "image": "https://hudabeauty.com/cdn/shop/files/EASY-BAKE_MATCHA-MILK-CAKE_SHOP-PDP_FINAL_PACKSHOT_1.webp?v=1772447567&width=493"
     },
     { "id": 3,
       "naam": "Backstage Glow Maximizer Palette",
       "merk": "Dior",
       "categorie": "Palette",
-      "prijs": 53.06
+      "prijs": 53.06,
+      "image": "https://media.iciparisxl.be/medias/prd-front-1391158-954x1192.jpg?context=bWFzdGVyfHByZC1pbWFnZXN8MTkxMjEyfGltYWdlL2pwZWd8YURZeUwyZzFNeTh4TVRnNE1URXdOREUzT1RJek1DOXdjbVF0Wm5KdmJuUXRNVE01TVRFMU9GODVOVFI0TVRFNU1pNXFjR2N8OGRlNTllZTU5NjI5ZWQ5NTZlYjczMGRlMTlhYTA5YTU2MzQwMjY1NTM1MTI5NDM5MjE3NzRkNmVkNDkzMmJjMg"
     },
     {
      "id": 4,
       "naam": "Sky High",
       "merk": "Maybelline",
       "categorie": "Mascara",
-      "prijs": 15.52
+      "prijs": 11.00,
+      "image": "https://cdn.notinoimg.com/detail_main_mq/maybelline/30152830_01-o/lash-sensational-sky-high-cosmic-black___220725.jpg"
     },
     {
      "id": 5,
       "naam": "Soft Pinch",
       "merk": "Rare Beauty",
       "categorie": "Liquid Blush",
-      "prijs": 39.95
+      "prijs": 39.95,
+      "image": "https://www.rarebeauty.com/cdn/shop/files/ECOMM-SP-LIQUID-BLUSH-MATTE-BLISS.jpg?v=1727895258"
     },
     { "id": 6,
       "naam": "Primer",
       "merk": "e.l.f. Cosmetics",
       "categorie": "Primer",
-      "prijs": 13.00
+      "prijs": 13.00,
+      "image": "https://media.douglas.be/medias/qhYrf5418752-0-global.jpg?context=bWFzdGVyfGltYWdlc3w1Nzk2NXxpbWFnZS9qcGVnfGFERTBMMmhtTnk4Mk16VTRNamczTnpVNE1UTTBNaTl4YUZseVpqVTBNVGczTlRKZk1GOW5iRzlpWVd3dWFuQm58ZmZiZTRlZTY4NmIxYzdlMzk5ZTg3YTI2YjZlMjg5MjU4NWRhMjMxNDdmOTYyZWRmMmYwOWUxMDYxNjQwNjI2ZA&grid=true&imPolicy=grayScaled&imdensity=1&imwidth=741"
     },
     {
      "id": 7,
       "naam": "Fixing Spray",
       "merk": "Charlotte Tilbury",
       "categorie": "Fixing Spray",
-      "prijs": 39.00
+      "prijs": 39.00,
+      "image": "https://media.iciparisxl.be/medias/prd-front-1379090-954x1192.jpg?context=bWFzdGVyfHByZC1pbWFnZXN8OTY1OTl8aW1hZ2UvanBlZ3xhRGc0TDJoa09TOHhNVGMzTWpNM05UYzJNRGt5Tmk5d2NtUXRabkp2Ym5RdE1UTTNPVEE1TUY4NU5UUjRNVEU1TWk1cWNHY3w1Njk3Y2UyODlhOWYyODAzNjNhNmY4ZjQwMzFjNzMyZmI4M2Q2YzYwMjUwNzI2YjJjNWVlODVhZDA4OWY1ZDM2"
     },
     {
      "id": 8,
       "naam": "Diamond Bomb",
       "merk": "Fenty Beauty",
       "categorie": "Highlighter",
-      "prijs": 39.90
+      "prijs": 39.90,
+      "image": "https://media.sephora.eu/content/dam/digital/pim/published/F/FENTY_BEAUTY/443947/26103-media_swatch.jpg?scaleWidth=750&scaleHeight=750&scaleMode=fit"
     },
     {
      "id": 9,
       "naam": "Perfect Shot",
       "merk": "MAC",
       "categorie": "Foundation",
-      "prijs": 40.00
+      "prijs": 46.99,
+      "image": "https://media.douglas.be/medias/clBSZk013237-0-global.jpg?context=bWFzdGVyfGltYWdlc3w4MTAyMHxpbWFnZS9qcGVnfGFEQmtMMmcxTUM4Mk16VXhPVEkyTlRjeE9ETXdNaTlqYkVKVFdtc3dNVE15TXpkZk1GOW5iRzlpWVd3dWFuQm58OTI3MjBjN2Y3N2M5YjhkOGExMzQzMmM2NWM2MjNkYzJhZmU1OTQ5ZTExNDVkZWRkZjIzMDZmYWJmMDgzNGY0Ng&grid=true&imPolicy=grayScaled&imdensity=1&imwidth=741"
     },
     {
      "id": 10,
       "naam": "Hoola",
       "merk": "Benefit",
       "categorie": "Bronzer",
-      "prijs": 21.78
+      "prijs": 25.99,
+      "image": "https://media.douglas.be/medias/CJEl2H483767-0-global.jpg?context=bWFzdGVyfGltYWdlc3wyMzYyMjF8aW1hZ2UvanBlZ3xhRFF4TDJnek5DODJORGd3TXpJeE1qVTVNVEV6TkM5RFNrVnNNa2cwT0RNM05qZGZNRjluYkc5aVlXd3VhbkJufDM5NmE1NmRmM2Y3NjZhZDZiZjQ2MDk3N2E1ZmY2YzY1ZWE2NmYxODcyMTUyYjRjOTA1MjExYzVhOWM3MzkyMzI&grid=true&imPolicy=grayScaled&imdensity=1&imwidth=741"
     }
 
   ],

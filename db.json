@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "naam": "Lucidalabbra no.17",
+      "merk": "KIKO Milano",
+      "categorie": "Lipgloss",
+      "prijs": 13.99
+    },
+    {
+      "id": 2,
+      "naam": "Loose Setting Powder",
+      "merk": "Huda Beauty",
+      "categorie": "Powder",
+      "prijs": 40.00
+    },
+    { "id": 3,
+      "naam": "Backstage Glow Maximizer Palette",
+      "merk": "Dior",
+      "categorie": "Palette",
+      "prijs": 53.06
+    },
+    {
+     "id": 4,
+      "naam": "Sky High",
+      "merk": "Maybelline",
+      "categorie": "Mascara",
+      "prijs": 15.52
+    },
+    {
+     "id": 5,
+      "naam": "Soft Pinch",
+      "merk": "Rare Beauty",
+      "categorie": "Liquid Blush",
+      "prijs": 39.95
+    },
+    { "id": 6,
+      "naam": "Primer",
+      "merk": "e.l.f. Cosmetics",
+      "categorie": "Primer",
+      "prijs": 13.00
+    },
+    {
+     "id": 7,
+      "naam": "Fixing Spray",
+      "merk": "Charlotte Tilbury",
+      "categorie": "Fixing Spray",
+      "prijs": 39.00
+    },
+    {
+     "id": 8,
+      "naam": "Diamond Bomb",
+      "merk": "Fenty Beauty",
+      "categorie": "Highlighter",
+      "prijs": 39.90
+    },
+    {
+     "id": 9,
+      "naam": "Perfect Shot",
+      "merk": "MAC",
+      "categorie": "Foundation",
+      "prijs": 40.00
+    },
+    {
+     "id": 10,
+      "naam": "Hoola",
+      "merk": "Benefit",
+      "categorie": "Bronzer",
+      "prijs": 21.78
+    }
+
+  ],
+  "merken": [
+    {
+      "id": 1,
+      "naam": "KIKO Milano",
+      "land": "Italy"
+    },
+    {
+      "id": 2,
+      "naam": "Huda Beauty",
+      "land": "USA"
+    },
+    {
+      "id": 3,
+      "naam": "Dior",
+      "land": "France"
+    },
+    {
+      "id": 4,
+      "naam": "Maybelline",
+      "land": "USA"
+    },
+    {
+      "id": 5,
+      "naam": "Rare Beauty",
+      "land": "USA"
+    },
+    {
+      "id": 6,
+      "naam": "e.l.f. Cosmetics",
+      "land": "USA"
+    },
+    {
+      "id": 7,
+      "naam": "Charlotte Tilbury",
+      "land": "UK"
+    },
+    {
+      "id": 8,
+      "naam": "Fenty Beauty",
+      "land": "USA"
+    },
+    {
+      "id": 9,
+      "naam": "MAC",
+      "land": "USA"
+    },
+    {
+      "id": 10,
+      "naam": "Benefit",
+      "land": "USA"
+    }
+  ]
+}
